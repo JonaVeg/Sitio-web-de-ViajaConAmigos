@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:ital,wght@1,100 & display=swap');
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+nav{
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%);
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
