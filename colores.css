@@ -1,0 +1,8 @@
+#fecha-hora {
+    text-align: end; /* Alinea el contenido a la izquierda */
+    font-size: 20px; /* Tamaño de fuente */
+    color: #333; /* Color de texto */
+    margin-left: 50px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+}
